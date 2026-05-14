@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://onairmediauk.github.io/notes-16lkqt/sitemap.xml
